@@ -2,7 +2,8 @@
 Here we provide our code for the data-driven agent-based model in our paper ('The Effect of Expertise Signaling when Sharing Medical Information in Opinion Dynamics').
 
 ## Project Structure
-
+In the Online Experiment folder, we provide the cleaned-up data we collected from the online experiment and analysis on the independent variable Title.
+In the Simulation folder, we provide the agent-based model and our simulations. The simulations for E1 and E2 are separately provided in Jupyter notebooks distinguished by network types (`ER_26.ipynb`, `SF_26.ipynb`, `PBN_26.ipynb`). The simulations for E3 and E4 are provided together in `E3_E4.ipynb`.
 
 ## Requirements
 This project uses the following Python packages:
