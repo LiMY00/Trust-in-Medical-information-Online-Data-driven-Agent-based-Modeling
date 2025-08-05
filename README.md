@@ -1,6 +1,9 @@
 # The Effect of Expertise Signaling when Sharing Medical Information in Opinion Dynamics
 Here we provide our code for the data-driven agent-based model in our paper ('The Effect of Expertise Signaling when Sharing Medical Information in Opinion Dynamics').
 
+## Project Structure
+
+
 ## Requirements
 This project uses the following Python packages:
 - `numpy` – for numerical operations
@@ -15,4 +18,3 @@ To install the external packages, run:
 ```bash
 pip install scipy seaborn
 
-## Project Structure
