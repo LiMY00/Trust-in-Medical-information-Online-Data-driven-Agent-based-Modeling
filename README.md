@@ -14,3 +14,5 @@ To install the external packages, run:
 
 ```bash
 pip install scipy seaborn
+
+## Project Structure
