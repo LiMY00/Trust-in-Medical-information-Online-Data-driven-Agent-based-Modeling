@@ -19,3 +19,5 @@ To install the external packages, run:
 ```bash
 pip install scipy seaborn
 
+## Additional Experiments and Results
+With the same agent-based model, we conducted four simulation experiments in total. Description and results of Experiment 2-4 are included in the attached file as an extension of the current work.
