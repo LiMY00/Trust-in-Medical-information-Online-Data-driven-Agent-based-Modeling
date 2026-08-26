@@ -2,7 +2,7 @@
 Here we provide our code for the data-driven agent-based model in our paper ('The Effect of Expertise Signaling when Sharing Medical Information in Opinion Dynamics').
 
 ## Additional Experiments and Results
-With the same agent-based model, we conducted four simulation experiments in total. Description and results of Experiment 2-4 are included in the attached file as an extension of the current work.
+In `Supplementary Materials.pdf`, we provide more details on the proof of theoritical results, virtual experiment settings and results. With our agent-based model, we conducted four simulation experiments in total. Description and results of Experiment 2-4 are included in `Supplementary Materials.pdf` following the line of current work.
 
 ## Introduction
 In the Online Experiment folder, we provide the cleaned-up data we collected from the online experiment and analysis on the independent variable Title.
